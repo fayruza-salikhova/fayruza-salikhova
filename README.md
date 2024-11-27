@@ -1,4 +1,4 @@
-## QA Automation Engineer with 6+ years of experience.
-## TypeScript | C#.
+## QA Automation Engineer with 6+ years of experience
+## TypeScript | C#
 
 
