@@ -12,3 +12,4 @@ Key Experience:
 * Contributed to the team by adding integration tests using Cypress and Gherkin. 
 * Developed unit tests in C# and performed bug fixing and issue resolution for support tasks. 
 * Implemented regression tests with NUnit and Selenium WebDriver.
+* Developed personal test automation projects using TypeScript, Playwright, Python, and Pytest to strengthen automation skills.
