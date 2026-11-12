@@ -17,3 +17,24 @@ QA Automation Engineer with 5+ years of experience.
 - **UI Regression Automation:** Implemented automated regression tests using **C#, NUnit, and Selenium WebDriver**, eliminating a separate manual regression cycle.
 - **Playwright & TypeScript:** Built personal automation projects using **Playwright and TypeScript**, applying **Page Object Model, custom fixtures, reusable utilities, API-based test setup, and environment-based configuration**.
 - **Python & pytest:** Developed practical skills in **Python test automation** using pytest, covering **unit, integration, and API testing, fixtures, parametrization, mocking, TDD, and CI/CD with GitHub Actions**.
+
+## Tech Stack
+
+**Languages:** TypeScript, JavaScript, Python, C#
+
+**UI Automation:** Playwright, Cypress, Selenium WebDriver
+
+**API Testing:** SuperTest, Postman, Playwright API Testing, pytest, requests, REST API
+
+**Test Frameworks & Libraries:**
+
+- **TypeScript / JavaScript:** Playwright, Cypress, Mocha, Chai, Cucumber, Gherkin
+- **Python:** pytest
+- **C#:** NUnit
+
+**Test Automation Practices:** Page Object Model (POM), fixtures, parametrization, test isolation, API-based test data setup
+
+**CI/CD & Tools:** GitLab CI/CD, TeamCity, GitHub Actions, Git, Jira, ESLint, Prettier
+
+## Find me
+https://www.linkedin.com/in/fayruza/
